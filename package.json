@@ -1,0 +1,16 @@
+{
+  "name": "studio-server",
+  "version": "1.0.0",
+  "description": "A code reveals product",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "Code",
+    "reveals"
+  ],
+  "author": "pradeep",
+  "license": "ISC"
+}
